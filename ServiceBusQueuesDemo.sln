@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "service-bus-queues-demo", "service-bus-queues-demo\service-bus-queues-demo.csproj", "{57602035-C2CC-446F-B919-A0071513C30E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceBusQueuesDemo", "service-bus-queues-demo\ServiceBusQueuesDemo.csproj", "{57602035-C2CC-446F-B919-A0071513C30E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
